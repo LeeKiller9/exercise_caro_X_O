@@ -1,0 +1,13 @@
+body {
+    text-align: left;
+    width: 405px;
+    margin: 0 auto;
+}
+
+canvas {
+    border: 1px solid gray;
+}
+
+button {
+    margin: 20px 0;
+}
